@@ -1,0 +1,13 @@
+{
+    "name": "samdjstevens/oauth2-spotify",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0",
+        "league/oauth2-client": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Samdjstevens\\OAuth2\\Client\\": "src"
+        }
+    }
+}
